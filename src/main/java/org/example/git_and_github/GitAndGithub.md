@@ -61,23 +61,23 @@ GitHub is a web-based platform for hosting Git repositories. It provides additio
 
 Here are some common Git commands and workflows:
 
-1. **git status**: Check the current status of your repository.
-2. **git add .**: Add all changes to the staging area.
-3. **git add <file>**: Add specific files to the staging area.
-4. **git commit -m "commit message"**: Commit changes to the repository with a descriptive message.
-5. **git restore --staged <file>**: Unstage changes from the staging area.
-6. **git log**: View commit history.
-7. **git reset <commit_hash>**: Reset to a specific commit.
-8. **git stash**: Temporarily stash changes.
-9. **git stash pop**: Retrieve stashed changes.
-10. **git stash clear**: Clear all stashed changes.
-11. **git remote -v**: View remote repositories.
-12. **git push origin <branch_name>**: Push changes to a remote repository.
-13. **git clone <repository_URL>**: Clone a repository from a remote source.
-14. **git fetch --all --prune**: Fetch changes from all remote branches.
-15. **git merge <branch_name>**: Merge changes from a branch into the current branch.
-16. **git rebase -i <commit_hash>**: Squash commits into a single commit interactively.
-17. **git push origin <branch_name> -f**: Force push changes to a remote branch.
+1. `git status`: Check the current status of your repository.
+2. `git add .`: Add all changes to the staging area.
+3. `git add <file>`: Add specific files to the staging area.
+4. `git commit -m "commit message"`: Commit changes to the repository with a descriptive message.
+5. `git restore --staged <file>`: Unstage changes from the staging area.
+6. `git log`: View commit history.
+7. `git reset <commit_hash>`: Reset to a specific commit.
+8. `git stash`: Temporarily stash changes.
+9. `git stash pop`: Retrieve stashed changes.
+10. `git stash clear`: Clear all stashed changes.
+11. `git remote -v`: View remote repositories.
+12. `git push origin <branch_name>`: Push changes to a remote repository.
+13. `git clone <repository_URL>`: Clone a repository from a remote source.
+14. `git fetch --all --prune`: Fetch changes from all remote branches.
+15. `git merge <branch_name>`: Merge changes from a branch into the current branch.
+16. `git rebase -i <commit_hash>`: Squash commits into a single commit interactively.
+17. `git push origin <branch_name> -f`: Force push changes to a remote branch.
 
 ## Other Important Terms :
 
