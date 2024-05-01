@@ -27,7 +27,7 @@ The flow direction of the program is indicated by arrows connecting the shapes.
 
 Consider the following scenario:
 
-![Flowchart Example](https://i.imgur.com/c5JNLyi.png)
+<img width="500" height="600" alt="Screenshot 2024-05-01 at 1 49 26 PM" src="https://github.com/rahullraghuwanshi/CodeForQuality/assets/52368582/a9b596dc-5a22-4842-868b-4993b2b0a779">
 
 Explanation:
 - **Start**: The process begins here.
@@ -52,7 +52,7 @@ If the salary is greater than 10,000, add a bonus of 2000; otherwise, add a bonu
 
 This can be represented as a flowchart:
 
-![Flowchart Example](https://i.imgur.com/c5JNLyi.png)
+<img width="500" height="600" alt="Screenshot 2024-05-01 at 1 49 26 PM" src="https://github.com/rahullraghuwanshi/CodeForQuality/assets/52368582/a9b596dc-5a22-4842-868b-4993b2b0a779">
 
 Explanation:
 - The process begins with taking input.
