@@ -79,14 +79,11 @@ Here are some common Git commands and workflows:
 16. `git rebase -i <commit_hash>`: Squash commits into a single commit interactively.
 17. `git push origin <branch_name> -f`: Force push changes to a remote branch.
 
-## Other Important Terms :
+## Other Terms :
 
 18. **HEAD**: A pointer that represents the current state of the repository or the currently checked-out commit.
 19. **Pull Request**: A GitHub feature that allows contributors to propose changes to a repository and request them to be reviewed and merged.
 20. **Merge Conflicts**: Occur when Git cannot automatically merge changes from different branches and requires manual intervention to resolve conflicts.
-
-## Advanced Git Techniques :
-
 21. **Remove a Commit from Pull Request**: Use `git reset <commit_hash>` and `git push origin <branch_name> -f` to remove a commit from a pull request by forcing the push.
 22. **Git Fetch Command**: Use `git fetch --all --prune` to fetch changes from all remote branches and prune deleted branches.
 23. **Update a Forked Repository**: Follow these steps to update a forked repository from the upstream repository.
