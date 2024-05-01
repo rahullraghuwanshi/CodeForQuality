@@ -1,6 +1,6 @@
-# Awesome Programming Guide 🚀
+# CodeForQuality Programming Guide 🚀
 
-Welcome to the Awesome Programming Guide! This guide covers a range of topics from version control with Git and GitHub to programming languages and memory management,Java programming,Data structure and algorithm. Let's dive in!
+Welcome to the CodeForQuality Programming Guide! This guide covers a range of topics from version control with Git and GitHub to programming languages and memory management,Java programming,Data structure and algorithm. Let's dive in!
 
 ## Table of Contents
 
