@@ -6,5 +6,6 @@ Welcome to the Awesome Programming Guide! This guide covers a range of topics fr
 
 - [Git and GitHub](https://github.com/rahullraghuwanshi/CodeForQuality/blob/main/src/main/java/org/example/git_and_github/GitAndGithub.md)
 - [Languages, Memory Management, and Garbage Collection](https://github.com/rahullraghuwanshi/CodeForQuality/blob/main/src/main/java/org/example/languages_memory_management/LanguagesAndMemoryManagement.md)
+- [Flowcharts & Pseudocode](https://github.com/rahullraghuwanshi/CodeForQuality/blob/main/src/main/java/org/example/flowcharts_and_pseudocode/FlowchartsAndPseudocode.md)
 
 ---
