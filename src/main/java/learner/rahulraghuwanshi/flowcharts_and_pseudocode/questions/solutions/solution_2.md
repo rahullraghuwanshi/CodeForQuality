@@ -69,4 +69,7 @@ fun main() {
 
 ```
 
+[Run above kotlin code](https://github.com/rahullraghuwanshi/CodeForQuality/blob/main/src/main/java/learner/rahulraghuwanshi/flowcharts_and_pseudocode/questions/code/code_2.kt)
+
+
 The Kotlin code implements the logic described in the pseudocode to take two numbers, calculate their sum, and print the result. You can replace `num1` and `num2` with any values you want to test.

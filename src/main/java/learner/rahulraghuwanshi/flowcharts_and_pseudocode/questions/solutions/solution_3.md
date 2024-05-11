@@ -69,4 +69,7 @@ fun main() {
 }
 ```
 
+[Run above kotlin code](https://github.com/rahullraghuwanshi/CodeForQuality/blob/main/src/main/java/learner/rahulraghuwanshi/flowcharts_and_pseudocode/questions/code/code_3.kt)
+
+
 The Kotlin code implements the logic described in the pseudocode to take a number as input, generate its multiplication table, and print the results. It dynamically takes input from the user and generates the multiplication table accordingly.
