@@ -86,9 +86,9 @@ Pseudocode allows programmers to outline the logic of their code in a clear and 
 
 #### Create flowchart and pseudocode for the following:
 
-1. Input a year and find whether it is a leap year or not.
-2. Take two numbers and print the sum of both.
-3. Take a number as input and print the multiplication table for it.
-4. Take 2 numbers as inputs and find their HCF and LCM.
-5. Keep taking numbers as inputs till the user enters ‘x’, after that print sum of all.
+1. Input a year and find whether it is a leap year or not.[Solution](https://github.com/rahullraghuwanshi/CodeForQuality/blob/main/src/main/java/learner/rahulraghuwanshi/flowcharts_and_pseudocode/solutions/soultion_1.md)
+2. Take two numbers and print the sum of both.[Solution](https://github.com/rahullraghuwanshi/CodeForQuality/blob/main/src/main/java/learner/rahulraghuwanshi/flowcharts_and_pseudocode/solutions/soultion_2.md)
+3. Take a number as input and print the multiplication table for it.[Solution](https://github.com/rahullraghuwanshi/CodeForQuality/blob/main/src/main/java/learner/rahulraghuwanshi/flowcharts_and_pseudocode/solutions/soultion_3.md)
+4. Take 2 numbers as inputs and find their HCF and LCM.[Solution](https://github.com/rahullraghuwanshi/CodeForQuality/blob/main/src/main/java/learner/rahulraghuwanshi/flowcharts_and_pseudocode/solutions/soultion_4.md)
+5. Keep taking numbers as inputs till the user enters ‘x’, after that print sum of all.[Solution](https://github.com/rahullraghuwanshi/CodeForQuality/blob/main/src/main/java/learner/rahulraghuwanshi/flowcharts_and_pseudocode/solutions/soultion_5.md)
 ---
