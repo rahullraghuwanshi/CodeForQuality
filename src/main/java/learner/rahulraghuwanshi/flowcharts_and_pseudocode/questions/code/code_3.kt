@@ -2,6 +2,7 @@ package learner.rahulraghuwanshi.flowcharts_and_pseudocode.questions.code
 
 import java.util.Scanner
 
+/** Take a number as input and print the multiplication table for it. **/
 fun main() {
     val scanner = Scanner(System.`in`)
 

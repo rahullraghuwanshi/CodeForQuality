@@ -2,6 +2,7 @@ package learner.rahulraghuwanshi.flowcharts_and_pseudocode.questions.code
 
 import java.util.Scanner
 
+/** Take two numbers and print the sum of both. **/
 fun main() {
     val scanner = Scanner(System.`in`)
 
