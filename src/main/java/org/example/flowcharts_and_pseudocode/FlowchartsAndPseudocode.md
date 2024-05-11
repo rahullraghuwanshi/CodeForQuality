@@ -4,10 +4,11 @@ Welcome to the Flow of Program guide! Here, we'll explore the use of flowcharts 
 
 ## Table of Contents
 
-- [Flowcharts](#flowcharts)
-- [What are Flowcharts?](#what-are-flowcharts)
-- [What is Pseudocode?](#what-is-pseudocode)
-- [Questions](#questions)
+
+- [Flowcharts](#flowcharts) 🛠️
+- [What are Flowcharts?](#what-are-flowcharts) ℹ️
+- [What is Pseudocode?](#what-is-pseudocode) 📝
+- [Questions](#questions) ❓
 
 ---
 
