@@ -4,9 +4,10 @@ Welcome to the Flow of Program guide! Here, we'll explore the use of flowcharts 
 
 ## Table of Contents
 
-- Flowcharts
-- What are Flowcharts?
-- What is Pseudocode?
+- [Flowcharts](#flowcharts)
+- [What are Flowcharts?](#what-are-flowcharts)
+- [What is Pseudocode?](#what-is-pseudocode)
+- [Questions](#questions)
 
 ---
 
@@ -23,11 +24,11 @@ Flowcharts are graphical representations of processes, depicting the steps and d
 
 The flow direction of the program is indicated by arrows connecting the shapes.
 
-### Example Flowchart:
+#### Example Flowchart:
 
 Consider the following scenario:
 
-<img width="500" height="600" alt="Screenshot 2024-05-01 at 1 49 26 PM" src="https://github.com/rahullraghuwanshi/CodeForQuality/assets/52368582/a9b596dc-5a22-4842-868b-4993b2b0a779">
+![Flowchart Example](https://github.com/rahullraghuwanshi/CodeForQuality/assets/52368582/a9b596dc-5a22-4842-868b-4993b2b0a779)
 
 Explanation:
 - **Start**: The process begins here.
@@ -42,7 +43,7 @@ Explanation:
 
 Flowcharts are used to visualize our thought process and algorithms. They provide a clear and structured representation of the steps involved in solving a problem or executing a program.
 
-### Example:
+#### Example:
 
 Consider the following scenario:
 ```
@@ -66,7 +67,7 @@ Explanation:
 
 Pseudocode is a high-level description of a computer program or algorithm, using plain English or a mixture of English and informal programming language syntax. It serves as a rough sketch of the code logic before actual implementation.
 
-### Example:
+#### Example:
 
 Consider the following pseudocode:
 ```
@@ -79,4 +80,14 @@ Add bonus as 1000
 
 Pseudocode allows programmers to outline the logic of their code in a clear and readable manner before translating it into a specific programming language.
 
+
+## Questions
+
+#### Create flowchart and pseudocode for the following:
+
+1. Input a year and find whether it is a leap year or not.
+2. Take two numbers and print the sum of both.
+3. Take a number as input and print the multiplication table for it.
+4. Take 2 numbers as inputs and find their HCF and LCM.
+5. Keep taking numbers as inputs till the user enters ‘x’, after that print sum of all.
 ---
