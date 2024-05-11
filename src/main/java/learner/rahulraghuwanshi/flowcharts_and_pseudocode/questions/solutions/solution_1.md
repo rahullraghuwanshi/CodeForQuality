@@ -94,6 +94,6 @@ fun main() {
 }
 ```
 
-[Run above kotlin code](https://github.com/rahullraghuwanshi/CodeForQuality/blob/main/src/main/java/learner/rahulraghuwanshi/flowcharts_and_pseudocode/questions/code/code_1.md)
+[Run above kotlin code](https://github.com/rahullraghuwanshi/CodeForQuality/blob/main/src/main/java/learner/rahulraghuwanshi/flowcharts_and_pseudocode/questions/code/code_1.kt)
 
 The Kotlin code implements the logic described in the pseudocode to check whether a given year is a leap year or not. Replace `year` variable with any value you want to test.
