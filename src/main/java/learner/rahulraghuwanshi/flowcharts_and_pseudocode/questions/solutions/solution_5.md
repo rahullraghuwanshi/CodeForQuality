@@ -49,20 +49,14 @@ fun main() {
     val scanner = Scanner(System.`in`)
     var sum = 0
 
-    println("Enter numbers (type 'x' to stop): ")
+    println("Enter numbers (type '0' to stop): ")
     while (true) {
-        val input = scanner.next()
+        val input = scanner.nextInt()
 
-        if (input == "x") {
+        if (input == 0) {
             break
         }
-
-        try {
-            val number = input.toInt()
-            sum += number
-        } catch (e: NumberFormatException) {
-            println("Invalid input. Please enter a valid number or 'x' to stop.")
-        }
+        sum += input
     }
 
     println("Sum of all entered numbers: $sum")
