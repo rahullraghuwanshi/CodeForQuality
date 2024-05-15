@@ -1,4 +1,4 @@
-package learner.rahulraghuwanshi.code
+package learner.rahulraghuwanshi.code.first_java
 
 //Take 2 numbers as input and print the largest number.
 

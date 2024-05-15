@@ -1,4 +1,4 @@
-package learner.rahulraghuwanshi.code
+package learner.rahulraghuwanshi.code.first_java
 
 //Take in two numbers and an operator (+, -, *, /) and calculate the value. (Use if conditions)
 

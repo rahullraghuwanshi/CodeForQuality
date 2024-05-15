@@ -1,4 +1,4 @@
-package learner.rahulraghuwanshi.code
+package learner.rahulraghuwanshi.code.first_java
 
 fun main() {
     // Input the string

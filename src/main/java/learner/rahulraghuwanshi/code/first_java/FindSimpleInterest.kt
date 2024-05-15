@@ -1,4 +1,4 @@
-package learner.rahulraghuwanshi.code
+package learner.rahulraghuwanshi.code.first_java
 
 //Write a program to input principal, time, and rate (P, T, R) from the user and find Simple Interest.
 
